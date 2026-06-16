@@ -1,1 +1,1 @@
-# Blood-Scion
+Blood-Scion
